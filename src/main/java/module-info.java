@@ -4,5 +4,5 @@ module com.example.padroesprojetojava {
 
 
     opens com.example.padroesprojetojava to javafx.fxml;
-    exports com.example.padroesprojetojava;
+//    exports com.example.padroesprojetojava;
 }
